@@ -1,0 +1,4 @@
+hi how are you
+i am shamanthaka
+first project is about hadoop map reduce
+second project is about pig and spark
